@@ -14,6 +14,10 @@ use node v16.0.0 using nvm(node version manager)
 
 Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
 
+**To run**
+Open 2 terminals one in outfitfy run npm run dev
+other one in frontend run npm start
+
 **Essential Variables**
 PORT = 4000
 

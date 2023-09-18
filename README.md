@@ -4,7 +4,7 @@ It is a MERN based project
 
 # Install Dependencies
 
-use node v16.0.0 using nvm(node version manager)
+** use node v16.0.0 using nvm(node version manager) **
 
 **For Backend** - `npm i`
 
